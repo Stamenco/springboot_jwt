@@ -1,30 +1,5 @@
 # spring-security-jwt
 
-## Technology stack
-- Java 10
-- Spring Boot
-- Spring Data
-- Spring Security
-- PostgreSQL / H2
-- Maven
-- Log4j
-- Lombok
-- Swagger
-
-## API Documentation
-
-- [Signup](#signup)
-    - [Success](#signup-success)
-    - [Email already exists](#signup-email-already-exists)
-    - [Bad request](#signup-bad-request)
-- [Signin](#signin)
-    - [Success](#signin-success)
-    - [Email not found](#signin-email-not-found)
-    - [Unauthorized](#signin-unauthorized)
-- [Current user](#current-user)
-    - [Success](#current-user-success)
-    - [Unauthorized](#current-user---unauthorized)
-
 ## Signup
 
 ```
