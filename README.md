@@ -169,4 +169,7 @@ Body
   "message": "Sorry, You're not authorized to access this resource.",
   "path": "/api/users/me"
 }
+
+
+credits : https://github.com/rmitula/spring-security-jwt
 ```
